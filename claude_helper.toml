@@ -1,0 +1,3 @@
+claude-helper --file test.py
+claude-helper --batch
+claude-helper --cache-stats
